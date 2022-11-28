@@ -8,7 +8,6 @@ public class Employee {
     public String getFullName() {
         return fullName;
     }
-
     public int getDepartment() {
         return department;
     }
